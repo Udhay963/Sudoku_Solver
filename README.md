@@ -4,22 +4,6 @@ A Python-based solution that uses **OpenCV**, **Convolutional Neural Networks (C
 
 ---
 
-## 📌 Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [System Requirements](#system-requirements)
-- [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-- [How to Run](#how-to-run)
-- [Results](#results)
-- [Applications](#applications)
-- [Future Scope](#future-scope)
-- [Author](#author)
-
----
-
 ## 🧠 Introduction
 
 This project aims to automate the process of solving Sudoku puzzles using computer vision and AI. The system reads an image of a Sudoku puzzle, detects the grid, recognizes the digits using a CNN model, solves the puzzle, and displays the solved puzzle alongside the original for easy comparison.
